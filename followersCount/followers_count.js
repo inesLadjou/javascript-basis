@@ -17,7 +17,11 @@ function checkCountValue() {
 //countDisplay and updates its content 
 //to reflect the current count value.
 function displayCount() {
+<<<<<<< HEAD
 document.getElementById('countDisplay').innerHTML= count; // Display the count in the HTML
+=======
+document.getElementById('countDisplay').innerHTML=count; // Display the count in the HTML
+>>>>>>> 31ae7cfb98f43061cabc6aaeafd050e97595eb11
 }
 
 //function to reset the count to 0
